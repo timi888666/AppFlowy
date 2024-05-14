@@ -42,15 +42,24 @@
     "emailHint": "邮箱",
     "passwordHint": "密码",
     "dontHaveAnAccount": "没有账户?",
+    "createAccount": "创建账户",
     "repeatPasswordEmptyError": "确认密码不能为空",
     "unmatchedPasswordError": "两次密码输入不一致",
     "syncPromptMessage": "同步数据可能需要一段时间，请不要关闭此页面",
     "or": "或",
+    "signInWithGoogle": "使用Google账户登录",
+    "signInWithGithub": "使用Github账户登录",
+    "signInWithDiscord": "使用Discord账户登录",
+    "signUpWithGoogle": "使用Google账户注册",
+    "signUpWithGithub": "使用Github账户注册",
+    "signUpWithDiscord": "使用Discord账户注册",
     "signInWith": "用其他方式登入：",
     "signInWithEmail": "使用邮箱登录",
     "pleaseInputYourEmail": "请输入邮箱地址",
+    "settings": "设置",
     "magicLinkSent": "魔法链接已经发送到您的邮箱，请检查！",
     "invalidEmail": "请输入一个有效的邮箱地址",
+    "logIn": "登录",
     "LogInWithGoogle": "使用 Google 登录",
     "LogInWithGithub": "使用 Github 登录",
     "LogInWithDiscord": "使用 Discord 登录",
@@ -214,6 +223,7 @@
     "viewDataBase": "查看数据库",
     "referencePage": "这个 {name} 正在被引用",
     "addBlockBelow": "在下面添加一个块",
+    "genSummary": "生成摘要",
     "urlLaunchAccessory": "在浏览器中打开",
     "urlCopyAccessory": "复制链接"
   },
@@ -228,6 +238,7 @@
     "clickToHideFavorites": "单击隐藏收藏夹栏目",
     "addAPage": "添加页面",
     "addAPageToPrivate": "添加页面到私人空间",
+    "addAPageToWorkspace": "添加页面到工作空间",
     "recent": "最近的"
   },
   "notifications": {
@@ -244,6 +255,7 @@
   },
   "button": {
     "ok": "OK",
+    "confirm": "确定",
     "done": "完成",
     "cancel": "取消",
     "signIn": "登录",
@@ -309,6 +321,13 @@
   },
   "settings": {
     "title": "设置",
+    "accountPage": {
+      "menuLabel": "我的账户",
+      "title": "我的账户",
+      "email": {
+        "title": "邮箱"
+      }
+    },
     "menu": {
       "appearance": "外观",
       "language": "语言",
