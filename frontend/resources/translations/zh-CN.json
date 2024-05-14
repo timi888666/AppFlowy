@@ -921,7 +921,9 @@
       },
       "image": {
         "copiedToPasteBoard": "图片链接已复制到剪贴板",
-        "addAnImage": "添加图像"
+        "addAnImage": "添加图像",
+        "imageUploadFailed": "上传图片失败",
+        "errorCode": "错误码"
       },
       "urlPreview": {
         "copiedToPasteBoard": "链接已复制到剪贴板"
@@ -1033,7 +1035,9 @@
       "page": {
         "label": "链接到页面",
         "tooltip": "点击打开页面"
-      }
+      },
+      "deleted": "删除",
+      "deletedContent": "内容不存在或者已经删除"
     },
     "toolbar": {
       "resetToDefaultFont": "重置为默认"
@@ -1041,6 +1045,10 @@
     "errorBlock": {
       "theBlockIsNotSupported": "当前版本不支持该块。",
       "blockContentHasBeenCopied": "块内容已被复制。"
+    },
+    "mobilePageSelector": {
+      "failedToLoad": "页面列表价值失败",
+      "noPagesFound": "未找到页面"
     }
   },
   "board": {
